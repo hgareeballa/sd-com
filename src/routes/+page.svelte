@@ -29,13 +29,11 @@
       <div
         class="flex-none mb-4 mr-8 text-3xl font-black text-left md:text-4xl lg:mb-0 lg:w-1/3 lg:text-right lg:text-6xl"
       >
-        Dessert dragée halvah croissant.
+        Bla Bla Bla Bla
       </div>
       <div>
         <div class="lg:text-2xl">
-          Cupcake ipsum dolor sit amet lemon drops pastry cotton candy. Sweet carrot cake macaroon
-          bonbon croissant fruitcake jujubes macaroon oat cake. Soufflé bonbon caramels jelly beans.
-          Tiramisu sweet roll cheesecake pie carrot cake.
+          Test Site Bla Bla Bla
         </div>
         <button class="mt-4 font-bold text-svelteOrange hover:text-svelteDark lg:text-2xl">
           Read it here
